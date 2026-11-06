@@ -1,0 +1,21 @@
+{
+  "name": "THEO Kitchen & Bar",
+  "short_name": "THEO",
+  "description": "THEO Kitchen & Bar, Old Riga",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#f8f3e9",
+  "theme_color": "#153d2b",
+  "icons": [
+    {
+      "src": "assets/favicon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "assets/favicon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
